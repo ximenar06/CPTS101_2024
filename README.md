@@ -1,2 +1,3 @@
 # CPTS101_2024
-how to use Git and GitHub
+### Ximena Rojas Cendon 
+### ximena.rojascendon@wsu.edu
